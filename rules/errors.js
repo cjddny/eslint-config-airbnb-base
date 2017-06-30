@@ -43,7 +43,7 @@ module.exports = {
     'no-duplicate-case': 'error',
 
     // disallow empty statements
-    'no-empty': 'error',
+    'no-empty': 'off',
 
     // disallow the use of empty character classes in regular expressions
     'no-empty-character-class': 'error',

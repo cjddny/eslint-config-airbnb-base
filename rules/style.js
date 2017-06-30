@@ -320,7 +320,7 @@ module.exports = {
     }],
 
     // allow just one var statement per function
-    'one-var': ['error', 'never'],
+    'one-var': ['off', 'never'],
 
     // require a newline around variable declaration
     // http://eslint.org/docs/rules/one-var-declaration-per-line
